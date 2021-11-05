@@ -9,9 +9,14 @@
 👯 On the other hands, I have 10+ years of full stack web development experience.
 
 😄 My favourite skills are:
-       solidity, truffle, hardhat, rust
-       anchor framework, 
-       web3, 
-       react.js, vue.js, Node.js, Laravel, etc.
 
-⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡
+      - solidity, truffle, hardhat, rust
+      
+      - anchor framework, 
+      
+      - web3, 
+      
+      - react.js, vue.js, Node.js, Laravel, etc.
+
+⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡
+
