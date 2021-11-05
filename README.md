@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**senior-white-tiger/senior-white-tiger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💬 In a word, I am focused on developing smart contracts on several blockchain networks.
 
-Here are some ideas to get you started:
+🔭 Since 2018, I am working on ethereum and binance blockchain.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Since 2020, I am working on solana.(terra May be)
+
+👯 On the other hands, I have 10+ years of full stack web development experience.
+
+😄 My favourite skills are:
+       solidity, truffle, hardhat, rust
+       anchor framework, 
+       web3, 
+       react.js, vue.js, Node.js, Laravel, etc.
+
+⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡
