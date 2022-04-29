@@ -1,9 +1,9 @@
 
 
 <a style="color:green" href="mailto:bluecomet0412@gmail.com"><h3>Let's keep posted!</h3></a>
-<h3 align="center">Solidity / Javascript / Python Engineer</h3>
+<h1 align="center">Solidity / Javascript / Python Engineer</h1>
 
-<h2> 💬 About me</h2>
+<h2>About me</h2>
 
 We live in a rapidly changing world. 🌍
 
