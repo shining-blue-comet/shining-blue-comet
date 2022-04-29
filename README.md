@@ -12,19 +12,19 @@ We live in a rapidly changing world. 🌍
 Why are we still waiting? Let's get started! 🚀
 
 <h2>Status</h2>
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=senior-white-tiger&column=7&margin-w=20&theme=juicyfresh" alt="my Github Trophy" />
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=bluecomet0412&column=7&margin-w=20&theme=juicyfresh" alt="my Github Trophy" />
 
- [![GitHub Game of Life](https://github4life.herokuapp.com/senior-white-tiger.gif?z=6)](https://github4life.herokuapp.com/senior-white-tiger)
+ [![GitHub Game of Life](https://github4life.herokuapp.com/bluecomet0412.gif?z=6)](https://github4life.herokuapp.com/bluecomet0412)
 
-  |   ![wg-d's GitHub stats](https://github-readme-stats.vercel.app/api?username=senior-white-tiger&show_icons=true&count_private=true&theme=nightowl)    |    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=senior-white-tiger&theme=nightowl)](https://git.io/streak-stats)     |
+  |   ![bluecomet0412's GitHub stats](https://github-readme-stats.vercel.app/api?username=bluecomet0412&show_icons=true&count_private=true&theme=nightowl)    |    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bluecomet0412&theme=nightowl)](https://git.io/streak-stats)     |
  | --- | --- |
 
-  |  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=senior-white-tiger&theme=github_dark)   |    ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=senior-white-tiger&theme=github_dark)     |
+  |  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bluecomet0412&theme=github_dark)   |    ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bluecomet0412&theme=github_dark)     |
 | --- | --- |
 
-<img alt="my Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=senior-white-tiger&bg_color=0c292E&color=a7e787&line=e729c7&point=dfdfdf&hide_border=true&theme=xcode" />
+<img alt="my Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bluecomet0412&bg_color=0c292E&color=a7e787&line=e729c7&point=dfdfdf&hide_border=true&theme=xcode" />
  
-[![Github](https://img.shields.io/github/followers/senior-white-tiger?label=Follow&style=social)](https://github.com/senior-white-tiger)
+[![Github](https://img.shields.io/github/followers/bluecomet0412?label=Follow&style=social)](https://github.com/bluecomet0412)
 
 
 <br/>
