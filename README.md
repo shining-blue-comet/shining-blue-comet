@@ -1,7 +1,7 @@
 
 
 <a style="color:green" href="mailto:bluecomet0412@gmail.com"><h3>Let's keep posted!</h3></a>
-<h1 align="center">Solidity / Javascript / Python Engineer</h1>
+<h3 align="center">Solidity / Javascript / Python Engineer</h3>
 
 <h2>About me</h2>
 
