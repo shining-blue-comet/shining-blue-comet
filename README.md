@@ -24,8 +24,8 @@
 
 </ul> 
 <div>
-<img height="250em" src="https://github-readme-stats.vercel.app/api?username=shining-blue-comet&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-<img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs?username=shining-blue-comet&langs_count=10&theme=dark&layout=compact" />
+<img height="220em" src="https://github-readme-stats.vercel.app/api?username=shining-blue-comet&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+<img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs?username=shining-blue-comet&langs_count=10&theme=dark&layout=compact" />
 </div>
 <h2>Languages and Tools</h2>
 
