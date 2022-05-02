@@ -23,7 +23,7 @@
 <li> 😊 Am I serious? **Yes only when I work and it needs me to be serious.**</li>
 
 </ul> 
-
+<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=shining-blue-comet&langs_count=10&theme=dark&layout=compact" />
 <h2>Languages and Tools</h2>
 
 
