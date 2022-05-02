@@ -106,5 +106,3 @@ Why are we still waiting? Let's get started! 🚀
     <a href="https://confluence.atlassian.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg" alt="confluence" height="35"/> </a> 
 </p>
   
-<h5 align="center">&copy; Ambitious Techie. 2021</h5>
-
