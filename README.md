@@ -3,11 +3,8 @@
 <h3 align="center">An ambitious and self-motivated developer</h3>
 
 <h2>About me</h2>
-
-
-<h2>Status</h2>
 <ul>
-<li> 🔭 I’m currently working on **Blockchain, P2E Game**</li>
+<li> 🔭 I’m currently working on **Blockchain, P2E Game, Finance**</li>
    
 <li> 🌱 I’m interested in growing experience in **Open Source Projects**</li>
   
