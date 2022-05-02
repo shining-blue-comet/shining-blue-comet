@@ -1,33 +1,11 @@
 
 
-<a style="color:green" href="mailto:bluecomet0412@gmail.com"><h3>Let's keep posted!</h3></a>
 <h3 align="center">An ambitious and self-motivated developer</h3>
 
 <h2>About me</h2>
 
-We live in a rapidly changing world. 🌍
-
-<p align="left">I am a passionate and self-motivated Solidity/Javascript/Python engineer. I have worked in serveral start-up companies, for which I had to work on several kinds of stacks. I focus mainly on solidity&web3 but I had to work on backend development and some DevOps works like deploying and maintaining server, enhancing SEO. And I have hands-on experience in developing CMS, LMS, CRM, Online Store, Real Estate Management Platform, Crypto & NFT Auction Platforms since I had been involved in different start-up companies from various markets - Business, Education, Sports, Social Relation Management.</p>
-
-Why are we still waiting? Let's get started! 🚀
 
 <h2>Status</h2>
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=bluecomet0412&column=7&margin-w=20&theme=juicyfresh" alt="my Github Trophy" />
-
- [![GitHub Game of Life](https://github4life.herokuapp.com/bluecomet0412.gif?z=6)](https://github4life.herokuapp.com/bluecomet0412)
-
-  |   ![bluecomet0412's GitHub stats](https://github-readme-stats.vercel.app/api?username=bluecomet0412&show_icons=true&count_private=true&theme=nightowl)    |    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bluecomet0412&theme=nightowl)](https://git.io/streak-stats)     |
- | --- | --- |
-
-  |  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bluecomet0412&theme=github_dark)   |    ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bluecomet0412&theme=github_dark)     |
-| --- | --- |
-
-<img alt="my Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bluecomet0412&bg_color=0c292E&color=a7e787&line=e729c7&point=dfdfdf&hide_border=true&theme=xcode" />
- 
-[![Github](https://img.shields.io/github/followers/bluecomet0412?label=Follow&style=social)](https://github.com/bluecomet0412)
-
-
-<br/>
 <ul>
 <li> 🔭 I’m currently working on **Blockchain, P2E Game**</li>
    
@@ -35,13 +13,9 @@ Why are we still waiting? Let's get started! 🚀
   
 <li> 👯 I’m looking to collaborate on **Huge Projects**</li>
 
-<li> 🤝 I’m looking for help with **Investing in my NFT Marketplace**</li>
-
 <li> 👨‍💻 I work with **Flexible Timezone - mainly EST, EEST**</li>
 
 <li> 💬 Ask me about **Javascript, Python, Laravel**</li>
-
-<li> 📫 How to reach me **Send SMS to +1 (210) 591-7799‬**</li>
 
 <li> 📄 5 years of mature experience in **Software Development**</li>
 
